@@ -25,11 +25,11 @@ st.image(image,width=300)
 with st.sidebar:
     st.subheader("Traductor.")
     st.write("Presiona el botón, cuando escuches la señal "
-                 "habla lo que quieres traducir, luego selecciona"   
-                 " la configuración de lenguaje que necesites.")
+                 "habla todo lo que quieras decir y selecciona"   
+                 " la configuración de lenguaje que necesites que traducir.")
 
 
-st.write("Toca el Botón y habla lo que quires traducir")
+st.write("Toca el Botón y habla todo lo que quieras")
 
 stt_button = Button(label=" Escuchar  🎤", width=300,  height=50)
 
