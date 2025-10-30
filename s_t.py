@@ -25,7 +25,7 @@ st.image(image,width=300)
 with st.sidebar:
     st.subheader("Traductor.")
     st.write("Presiona el botón, cuando escuches la señal "
-                 "habla todo lo que quieras decir y selecciona"   
+                 "habla todo lo que quieras decir, luego selecciona"   
                  " la configuración de lenguaje que necesites que traducir.")
 
 
